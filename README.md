@@ -3,7 +3,7 @@
 *Ziggy
 *Alex
 *Bob
-*Yanni
+*Yannigit 
 ##Clients
 *Mei
 
